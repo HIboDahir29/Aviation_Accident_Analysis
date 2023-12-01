@@ -1,5 +1,5 @@
 # Aviation_Accident_Analysis
-In the project we have built intractive dashboard to analyze civil aviation accidents and selected incidents. The data includes accidents from the United States, its territories and possessions, and in international waters.
+In the project, we have built an interactive dashboard to analyze civil aviation accidents and selected incidents. The data includes accidents in the United States, its territories and possessions, and in international waters.
 
 Group members:
 1. Tejal Kotkar
@@ -10,7 +10,7 @@ Group members:
 #### Tools:
 
 This project is achieved by using:
-HTML, CSS, javascript combined with D3, Python Flask API, Jupyter Notebook, plotly, leaflet with mapbox
+HTML, CSS, javascript combined with D3, Python Flask API, Jupyter Notebook, plotly, leaflet with mapbox.
 
 #### Additional Libraries used:
 Additional JS Library : [flickity carousel](https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js)
