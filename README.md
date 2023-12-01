@@ -1,5 +1,5 @@
 # Aviation_Accident_Analysis
-In the project, we have built an interactive dashboard to analyze civil aviation accidents and selected incidents. The data includes accidents in the United States, its territories and possessions, and in international waters.
+In the project, we have built an interactive dashboard to analyze civil aviation accidents and selected incidents. The data includes accidents in the United States, its territories and possessions, and international waters.
 
 Group members:
 1. Tejal Kotkar
